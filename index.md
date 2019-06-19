@@ -1,7 +1,7 @@
 # Home Page 
 
 
-![Monument of San Souci](https://barnraisersllc.com/wp-content/uploads/2014/08/varwwwclientsclient1web2tmpphpJnHzht.jpg)
+![Monument of San Souci](/imgs/sample visual.jpeg)
 
 
 [Click here to see the Repo](https://github.com/maryelliott1020/WesternHegemony/tree/master)
