@@ -1,7 +1,7 @@
 # Home Page 
 
 
-![Monument of San Souci](https://www.wmf.org/sites/default/files/styles/project_gallery_full_size/public/projects/gallery/HTI-Palace-2.jpg?itok=uyRS68mM)
+![Monument of San Souci](https://barnraisersllc.com/wp-content/uploads/2014/08/varwwwclientsclient1web2tmpphpJnHzht.jpg)
 
 
 [Click here to see the Repo](https://github.com/maryelliott1020/WesternHegemony/tree/master)
