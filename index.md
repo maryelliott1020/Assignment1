@@ -1,8 +1,6 @@
 # Home Page 
 
-
-![Monument of San Souci](/imgs/sample visual.jpg)
-
+![Monument of San Souci](/Imgs/sample visual.jpg)
 
 [Click here to see the Repo](https://github.com/maryelliott1020/WesternHegemony/tree/master)
 
